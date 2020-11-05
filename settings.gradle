@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Eva2BancoBPM_FranciscoFernandes_IgorLlancapan"
